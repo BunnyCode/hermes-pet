@@ -22,7 +22,15 @@ Then select it in Hermes with `display.pet.slug: eve-stellar-blade`.
 
 ## License
 
-Free to use, modify, and share — even commercially — under the
-[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). Keep the
-license notice with the code; you don't have to open-source your own
-derivatives, but credit is appreciated.
+[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) — free to
+use, modify, and share, even commercially. Derivatives don't have to be
+open-sourced.
+
+**Attribution is required** for this artwork: the sprites were
+AI-generated and then substantially hand-painted (hair and armor painted by
+hand). Per the [NOTICE](NOTICE) file, anyone redistributing these assets
+must include that notice and credit:
+
+> Eve chibi pet — original artwork by Theodor (BunnyCode)
+
+**Artwork copyright:** Theodor (BunnyCode), 2026.
